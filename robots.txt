@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-db05od.trans88.online/sitemap.xml
